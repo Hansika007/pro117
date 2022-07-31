@@ -1,0 +1,38 @@
+body
+{ 
+    background-color:#a7fb39;
+} 
+
+h1 
+{
+    color:rgb(38, 0, 255); 
+    background-color: cornsilk; 
+    font-family:fantasy; 
+    text-align: center; 
+    padding-left: 150px;
+} 
+
+#show_sketch 
+{ 
+    float:right; 
+    margin-right: 10px; 
+    margin-top: 3px; 
+    font-family:Arial;
+}
+
+#sketch
+{
+    color: crimson;
+}
+
+#timer
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float: right;
+}
+
+#score
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float: left;
+}
